@@ -7,7 +7,7 @@
     "googleapis": "^159.0.0"
   },
   "scripts": {
-    "start": "ts-node src/index.ts"
+    "start": "node index.ts"
 
   },
   "type": "module",
