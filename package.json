@@ -6,6 +6,10 @@
     "express": "^5.1.0",
     "googleapis": "^159.0.0"
   },
+  "scripts": {
+    "start": "ts-node src/index.ts"
+
+  },
   "type": "module",
   "devDependencies": {
     "@types/node": "^24.3.0"
